@@ -1,0 +1,16 @@
+INSERT INTO comics (user_id, title, author, publisher, genre, issue_number, year, price, status, description) VALUES
+(1, 'Midnight Courier', 'Rhea Dalton', 'Noir Ink', 'Mystery', 3, 2019, 6.50, 'owned', 'A bike messenger delivers a package she was never meant to open.'),
+(1, 'Blade of the Tides', 'Haruto Seki', 'Shonen Press', 'Manga', 2, 2021, 8.00, 'reading', 'A fisherman''s son inherits a sword that calls the sea.'),
+(1, 'Atlas Vanguard', 'Marcus Webb', 'Starline', 'Superhero', 5, 2011, 5.95, 'owned', 'Earth''s newest heroes learn the cost of being watched.'),
+(1, 'Pixel Pirates', 'Dani Flores', 'Giggle House', 'Comedy', 1, 2022, 4.75, 'wishlist', 'A crew of retro arcade ghosts sail the high scores.'),
+(1, 'The Ember Throne', 'Isolde Crane', 'Pyre Press', 'Fantasy', 2, 2020, 9.50, 'owned', 'A forgotten heir wakes the last living dragon.'),
+(1, 'Signal Lost', 'Priya Nair', 'Indie Orbit', 'Sci-Fi', 4, 2024, 7.50, 'owned', 'A deep-space relay station stops answering Earth.'),
+(1, 'Whispering Pines', 'Colin Hart', 'Nightfall', 'Horror', 1, 2015, 6.00, 'wishlist', 'Campers hear their own names in the forest.'),
+(1, 'Tiny Titans of Tokyo', 'Yuki Aoyama', 'Shonen Press', 'Manga', 3, 2017, 7.75, 'owned', 'Kaiju the size of cats cause very big trouble.'),
+(1, 'Case of the Glass Orchid', 'Vera Lindqvist', 'Noir Ink', 'Mystery', 6, 2013, 8.75, 'reading', 'A greenhouse murder with no way in or out.'),
+(1, 'Rocket Dad', 'Greg Palmer', 'Giggle House', 'Comedy', 7, 2019, 4.25, 'owned', 'A retired astronaut tries to survive the school run.'),
+(1, 'Guardian Protocol', 'Elena Ruiz', 'Starline', 'Superhero', 3, 2023, 6.25, 'wishlist', 'An AI hero must decide whom to protect.'),
+(1, 'Songs of the Hollow King', 'Aldric Voss', 'Pyre Press', 'Fantasy', 5, 2009, 7.00, 'owned', 'A bard wanders a kingdom that forgot its ruler.'),
+(1, 'Kepler Station', 'Naomi Walsh', 'Indie Orbit', 'Sci-Fi', 1, 2016, 6.75, 'owned', 'Twelve scientists, one habitat, one secret.'),
+(1, 'The Bone Orchard', 'Mara Quinn', 'Nightfall', 'Horror', 3, 2018, 6.50, 'reading', 'Something grows where the old graves were.'),
+(1, 'Lantern Street Detectives', 'Theo Marsh', 'Tidewater', 'Mystery', 2, 2021, 7.00, 'wishlist', 'Three kids and a stray dog crack the neighbourhood''s cold cases.');
