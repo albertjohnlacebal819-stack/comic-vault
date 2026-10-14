@@ -2,8 +2,7 @@
 
 A simple comic book collection manager made with PHP and MySQL (mysqli). The home page is public and shows random comics. After logging in, **My Collection** shows only your own comics, where you can add, edit and delete them.
 
-**Login (admin):** admin@example.com / Admin@123
-**Login (user):** test@example.com / test123
+**Login (admin):** admin@example.com / Admin@123 **Login (user):** test@example.com / test123
 
 ## Three kinds of visitors
 - **Guest** (not logged in): vermilion accent, 12 random comics in Discover, read-only
